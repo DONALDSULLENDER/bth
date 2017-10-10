@@ -20,4 +20,4 @@ Stay tuned for updates and important information.
 
 # Signup for BitEther (BTH) Airdrop whitelist here: http://www.bitether.io
 
-eLTC will have a fixed supply of 10 million tokens, and it is divisible to 18 decimal places, and you’ll be able to send and receive them just like you can with any other ERC20 Token.
+BitEther (BTH) will have a fixed supply of 10 million tokens, and it is divisible to 18 decimal places, and you’ll be able to send and receive them just like you can with any other ERC20 Token.
